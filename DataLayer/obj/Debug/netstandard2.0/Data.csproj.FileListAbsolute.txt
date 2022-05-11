@@ -1,0 +1,8 @@
+C:\Users\pgee\source\repos\GroceryStore\DataLayer\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\pgee\source\repos\GroceryStore\DataLayer\bin\Debug\netstandard2.0\Data.dll
+C:\Users\pgee\source\repos\GroceryStore\DataLayer\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\pgee\source\repos\GroceryStore\DataLayer\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\pgee\source\repos\GroceryStore\DataLayer\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\pgee\source\repos\GroceryStore\DataLayer\obj\Debug\netstandard2.0\Data.dll
+C:\Users\pgee\source\repos\GroceryStore\DataLayer\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\pgee\source\repos\GroceryStore\DataLayer\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
